@@ -8,7 +8,7 @@ _(This is a collection of thoughts from a maintainer of the [Public Suffix List]
 
 ## **Public Suffix List: Past to Present**
 
-In the beginning was the cookie, and it was good. It was a time when the root zone was small, cookies were simple, and small furry creatures from Alpha Centauri were [real small furry creatures from Alpha Centauri](https://www.goodreads.com/quotes/46075-in-those-days-spirits-were-brave-the-stakes-were-high). With the exception that none of this was ever true.
+In the beginning was the cookie, and it was good. It was a time when the root zone was small, cookies were simple, and small furry creatures from Alpha Centauri were real small furry creatures from Alpha Centauri. With the exception that none of this was ever true.
 
 When cookies were first introduced, the idea was simple: anybody who registered a domain could take advantage of this hot new storage/persistence layer. If you registered `example.com`, then you could do whatever you wanted and set whatever cookie you wanted, for any host in the `example.com` domain namespace - because it was your domain. This worked for the few generic TLDs (gTLDs) that were set up by [RFC 920](https://tools.ietf.org/html/rfc920), but was known to break down when it came to country code TLDs (ccTLDs), that did what they wanted and made their own rules. Whether this was `.us` which divided into states and cities, or `.uk`, which had its own subdivisions mirroring the gTLDs, such as `.co.uk` and `.net.uk`. 
 
