@@ -75,7 +75,7 @@ In general, you’ll have far fewer security and privacy issues if you adopt the
 
 ### Developers don’t like how restrictive the SOP is. Are you sure it's the right idea?
 
-It’s true, the SOP is a mighty hammer to weild, and it’s far more restrictive than simply eTLD+1. As it’s used today, eTLD+1 is often trying to be a shorthand for “associated with the same organization”, and alternative expressions of such associations (such as explored by DBOUND or First Party Sets) may be stepping stones towards more flexible expressions. However, using eTLD+1 to try and approximate that does not work, because it defaults to an insecure state of assuming different origins are related, requiring sites to opt-out in order to maintain security or privacy boundaries, and can be easily circumvented through adding to the PSL or through the use of CNAMEs to bypass any intended restrictions.
+It’s true, the SOP is a mighty hammer to wield, and it’s far more restrictive than simply eTLD+1. As it’s used today, eTLD+1 is often trying to be a shorthand for “associated with the same organization”, and alternative expressions of such associations (such as explored by DBOUND or First Party Sets) may be stepping stones towards more flexible expressions. However, using eTLD+1 to try and approximate that does not work, because it defaults to an insecure state of assuming different origins are related, requiring sites to opt-out in order to maintain security or privacy boundaries, and can be easily circumvented through adding to the PSL or through the use of CNAMEs to bypass any intended restrictions.
 
 
 ### What are we going to do about cookies then?
